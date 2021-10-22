@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.0.1
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "O'Brien"
@@ -9,6 +9,6 @@ authors:
   given-names: "Pamela M."
 title: "PreEMPT Merge Tool"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: 10.5281/zenodo.5592756
 date-released: 2021-10-22
 url: "https://github.com/preempt-merge-tool/merge-tool"
