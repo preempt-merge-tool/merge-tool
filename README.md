@@ -81,7 +81,7 @@ there has only been one update since then, and they have not stated a set releas
 The merge tool is also limited in its ability to use genotype databases other than gnomAD. We are currently working on adapting the tool to be able to merge ClinVar with 
 the Allele Frequency Aggregator (ALFA) database.
 
-## Citations
+## Citations:
 1.	Landrum, M.J., et al., ClinVar: improving access to variant interpretations and supporting evidence. Nucleic Acids Res, 2018. 46(D1): p. D1062-D1067.
 2.	Karczewski, K.J., et al., The mutational constraint spectrum quantified from variation in 141,456 humans. Nature, 2020. 581(7809): p. 434-443.
 3.	Danecek, P., et al., Twelve years of SAMtools and BCFtools. Gigascience, 2021. 10(2).
