@@ -1,4 +1,5 @@
 # Merge Tool Documentation 04/23/2021
+<a href="https://zenodo.org/badge/latestdoi/420104265"><img src="https://zenodo.org/badge/420104265.svg" alt="DOI"></a>
 
 ## Purpose:
 The purpose of this tool is to merge a phenotype database (ClinVar) with a genotype database (gnomAD) to generate a flat file of variants. 
