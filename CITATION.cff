@@ -7,10 +7,18 @@ authors:
   given-names: "Ann Chen"
 - family-names: "McMahon"
   given-names: "Pamela M."
+- family-names: "Christensen"
+  given-names: "Kurt D."
+- family-names: "Yeh"
+  given-names: "Jennifer M."
+- family-names: "Stout"
+  given-names: "Natasha K."
+- family-names: "Gooch"
+  given-names: "Michael"
 - family-names: "Stein"
   given-names: "Sarah K."
 title: "PreEMPT Merge Tool"
 version: 1.0.1
-doi: 10.5281/zenodo.5592756
+doi: 10.5281/zenodo.5592755
 date-released: 2021-10-22
 url: "https://github.com/preempt-merge-tool/merge-tool"
