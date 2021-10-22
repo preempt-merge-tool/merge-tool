@@ -62,16 +62,6 @@ CHROM, POS, ALLELEID, GENEINFO, REF, ALT, nhomalt, CLNREVSTAT, CLNSIG, CLNVC, OR
 
 If you wish to alter these, see the Data Dictionaries for each database, located in the git repository, to see the variable options. Note: the code will need to be altered to include those variables as additional columns. Examples of variables you may want to add include AC, AN, AF for popmax and for specific populations like African-Americans, Europeans, etc.. 
 
-Default output variables
-
-![image](https://user-images.githubusercontent.com/67425562/116254829-ae101580-a73f-11eb-83c1-33c71208c6c9.png)
-
-## Flowchart:
-![image](https://user-images.githubusercontent.com/67425562/116253392-70f75380-a73e-11eb-88fa-029774d36201.png)
-
-## General Pipeline:
-![image](https://user-images.githubusercontent.com/67425562/116255293-19f27e00-a740-11eb-9438-a944cd345e32.png)
-
 ## Additional Capabilities:
 The gnomAD genome database can be used as the phenotype database instead of gnomAD exome database in the merge tool. It follows all the same steps as the gnomAD exome 
 and ClinVar merge. We have created an R function to combine gnomAD exome and ClinVar merge tool output with gnomAD genome and ClinVar merge tool output of the same gene. 
